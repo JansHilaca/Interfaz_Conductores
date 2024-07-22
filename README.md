@@ -12,6 +12,9 @@ La aplicación realiza lo siguiente:
 
 ![imagen](https://github.com/user-attachments/assets/c251072c-5ec9-499a-9202-9c8cb1c694f7)
 
+![imagen](https://github.com/user-attachments/assets/5eaafd6c-ea77-4bee-aca5-3307b424830c)
+
+
 ## Código Fuente
 
 ```java
